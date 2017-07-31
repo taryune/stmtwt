@@ -1,0 +1,11 @@
+# Twitter
+CK = 'CONSUMER_KEY'
+CS = 'CONSUMER_SECRET'
+AT = 'ACCESS_TOKEN'
+AS = 'ACCESS_TOKEN_SECRET'
+
+# Steam API Key
+SteamAPIKey = 'STEAMAPIKEY'
+
+# Your SteamID64
+steamid = 'STEAMID64'
